@@ -16,6 +16,9 @@ const App = props => {
 				<section className="how-to-play-section">
  					<HowToPlayWrap />
  				</section>
+				<section className="registration-form-section">
+					<RegistrationForm />
+				</section>
 				<section className="disclaimer-section">
  					<Disclaimer />
  				</section>
