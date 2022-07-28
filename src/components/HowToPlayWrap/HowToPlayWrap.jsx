@@ -21,3 +21,5 @@ const HowToPlayWrap = props => {
         </div>
     )
 }
+
+export default HowToPlayWrap
