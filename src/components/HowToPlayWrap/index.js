@@ -1,1 +1,1 @@
-export { default } from './HowToPlayWrap'
+export { default } from './HowToPlayWrap';
