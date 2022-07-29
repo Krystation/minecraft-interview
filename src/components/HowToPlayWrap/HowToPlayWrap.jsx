@@ -17,7 +17,9 @@ const HowToPlayWrap = props => {
 				))}
 			</div>
 			<hr />
-			<p classname="email-text">An email will be sent out to those who have registered, with instructions on how to enter the Minecraft-created University of Arizona. If you’re experiencing connection issues, <a href="https://help.minecraft.net/hc/en-us/articles/360035130871-Java-Edition-Realms-connection-issues" target="_blank" rel="noopener">click here</a> for help.</p>
+			<p classname="email-text">An email will be sent out to those who have registered, with instructions on how to enter the Minecraft-created University of Arizona. If you’re experiencing connection issues, <a href="https://help.minecraft.net/hc/en-us/articles/360035130871-Java-Edition-Realms-connection-issues" target="_blank" rel="noopener noreferrer">click here</a> for help.</p>
         </div>
     )
 }
+
+export default HowToPlayWrap;
