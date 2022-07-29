@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArizonaHeader, MinecraftInfo, Hero, MinecraftVideo, HowToPlayWrap, RegistrationForm, Disclaimer, ErrorBoundary } from './components';
+import { ArizonaHeader, MinecraftInfo, Hero, MinecraftVideo, HowToPlayWrap, Disclaimer, ErrorBoundary } from './components';
 import './App.css';
 
 const App = props => {
@@ -16,9 +16,6 @@ const App = props => {
 					</section>
 					<section className="how-to-play-section">
 						<HowToPlayWrap />
-					</section>
-					<section className="registration-form-section">
-						<RegistrationForm />
 					</section>
 					<section className="disclaimer-section">
 						<Disclaimer />
