@@ -1,6 +1,6 @@
 .hero {
   font-family: proxima-nova-condensed, Verdana, Geneva, sans-serif;
-  color: white;
+  color: black;
   margin: 0 auto;
 }
 
@@ -74,7 +74,7 @@
   text-align: center;
   padding-top: 20px;
   padding-bottom: 16px;
-  color: #ffffff;
+  color: black;
   font-weight: bolder;
   font-size: 28px;
   -webkit-transition-duration: 0.45s;
@@ -83,7 +83,7 @@
 }
 
 .hero .commit-bttn:hover, .hero .commit-bttn:focus {
-  background-color: #ab0520;
+  background-color: lightblue;
 }
 
 .hero .scroll {
@@ -93,8 +93,8 @@
 .hero .scroll .chevron {
   display: block;
   margin: auto;
-  border-right: 2px solid white;
-  border-bottom: 2px solid white;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
   width: 27px;
   height: 27px;
   -webkit-transform: rotate(45deg);
