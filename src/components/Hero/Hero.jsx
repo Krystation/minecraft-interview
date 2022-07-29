@@ -16,7 +16,7 @@ const Hero = props => {
                 </h1>
                 <p>University of Arizona students have built Old Main and the University of Arizona mall – to scale! – for you to explore.</p>
 				<p>Register to visit the world &amp; meet other Wildcats!</p>
-				<Link to="registration-form" smooth={true} duration={800} offset={-40} className="commit-bttn bg-color-bloom">SIGN ME UP</Link>
+				<Link to="how-to-play-wrap" smooth={true} duration={800} offset={-40} className="commit-bttn bg-color-bloom">SIGN ME UP</Link>
             </div>
             <div className="scroll">
                 <div className="chevron"></div>
