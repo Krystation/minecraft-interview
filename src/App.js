@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArizonaHeader, MinecraftInfo, Hero, MinecraftVideo, HowToPlayWrap, RegistrationForm, Disclaimer } from './components';
+import { ArizonaHeader, MinecraftInfo, Hero, MinecraftVideo, HowToPlayWrap, Disclaimer } from './components';
 import './App.css';
 
 const App = props => {
