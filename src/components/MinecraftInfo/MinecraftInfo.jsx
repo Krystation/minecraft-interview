@@ -1,9 +1,9 @@
 import React from 'react'
 
-const MinecraftInfo = props => {
+const MinecraftInfo = (props) => {
     const Style = {
-        margin-top: '0',
-        margin-bottom: '0'
+        marginTop: '0',
+        marginBottom: '0'
     }
 
     return(
